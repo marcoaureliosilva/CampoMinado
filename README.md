@@ -12,6 +12,9 @@ O objetivo é fornecer uma implementação simples e funcional do jogo clássico
 - O jogo exibe o estado do tabuleiro após cada jogada.
 - Ao final do jogo, é exibida uma mensagem indicando a vitória ou a derrota
 
+## Layout
+![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+
 ## Requisitos
 
 - Java 17
@@ -68,10 +71,15 @@ mvn test
 ```
 Os testes serão executados e você poderá ver o resultado no terminal.
 
+## Licença
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
+
+# Autor
+
+Marco Aurélio da Silva
+
+https://www.linkedin.com/in/maraureliosilva
+
 ## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorar o jogo da velha, sinta-se à vontade para abrir uma issue ou enviar um pull request. Farei o possível para analisar e incorporar suas contribuições.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorar o jogo da velha, sinta-se à vontade para abrir uma issue ou enviar um pull request. Farei o possível para analisar e incorporar suas contribuições. 
