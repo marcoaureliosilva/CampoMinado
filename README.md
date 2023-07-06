@@ -13,7 +13,9 @@ O objetivo é fornecer uma implementação simples e funcional do jogo clássico
 - Ao final do jogo, é exibida uma mensagem indicando a vitória ou a derrota
 
 ## Layout
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Campo Minado 1](https://github.com/marcoaureliosilva/CampoMinado/blob/main/CampoMinado01.png)
+
+![Campo Minado 2](https://github.com/marcoaureliosilva/CampoMinado/blob/main/CampoMinado02.png)
 
 ## Requisitos
 
@@ -38,12 +40,12 @@ mvn --version
 1. Clone este repositório para o seu ambiente local.
 
 ```shell
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/marcoaureliosilva/CampoMinado.git
 ```
 
 2. Navegue até o diretório do projeto.
 ```shell
-cd nome-do-projeto
+cd CampoMinado
 ```
 
 3. Compile o projeto utilizando o Maven.
@@ -53,7 +55,7 @@ mvn compile
 
 4. Execute o jogo.
 ```shell
-mvn exec:java -Dexec.mainClass="com.example.JogoDaVelhaApp"
+mvn exec:java -Dexec.mainClass="org.marco.CampoMinado"
 ```
 
 ## Como Executar os Testes
@@ -62,7 +64,7 @@ O projeto utiliza a estrutura de testes JUnit para garantir a qualidade do códi
 
 1. Navegue até o diretório do projeto.
 ```shell
-cd nome-do-projeto
+cd CampoMinado
 ```
 
 2. Execute os testes utilizando o Maven.
