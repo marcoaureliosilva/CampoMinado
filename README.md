@@ -74,7 +74,7 @@ mvn test
 Os testes serão executados e você poderá ver o resultado no terminal.
 
 ## Licença
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marcoaureliosilva/CampoMinado/blob/main/LICENSE)
 
 # Autor
 
